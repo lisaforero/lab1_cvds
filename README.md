@@ -1,4 +1,4 @@
-# Informe de laboratorio 1
+# Informe de laboratorio 1.
 
 ### Creando el repositorio localmente
 ![](https://github.com/lisaforero/lab1_cvds/blob/master/1.png)
