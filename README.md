@@ -16,3 +16,7 @@ git add se utiliza para agregar archivos al área de preparación, mientras que 
 ### Configurando el repositorio local con el remoto
 ![](https://github.com/lisaforero/lab1_cvds/blob/master/5.png)
 ![](https://github.com/lisaforero/lab1_cvds/blob/master/6.png)
+
+### Haciendo cambios
+![](https://github.com/lisaforero/lab1_cvds/blob/master/7.png)
+![](https://github.com/lisaforero/lab1_cvds/blob/master/8.png)
