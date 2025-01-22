@@ -1,7 +1,7 @@
 # Informe de laboratorio 1
 
 ### Creando el repositorio localmente
-![](C:/Users/lina.sanchez/Pictures/Screenshots/1.png)
+![](https://github.com/lisaforero/lab1_cvds/blob/master/1.png)
 
 ### Agregando un archivo al repositorio
 ![](C:/Users/lina.sanchez/Pictures/Screenshots/2.png)
