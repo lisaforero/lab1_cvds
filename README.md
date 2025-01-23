@@ -24,10 +24,18 @@ git add se utiliza para agregar archivos al área de preparación, mientras que 
 ## PARTE II (Trabajo en parejas)
 
 ### Owner y Colaborador editan el archivo README.md al mismo tiempo e intentan subir los cambios al mismo tiempo.
-"espacio imagen"
+![](https://github.com/lisaforero/lab1_cvds/blob/master/9.png)
+![](https://github.com/lisaforero/lab1_cvds/blob/master/10.png)
 
 ### Despues de hacer pull en el equipo que fallo
-"espacio imagen"
+![](https://github.com/lisaforero/lab1_cvds/blob/master/11.png)
+
+### Arreglando el fallo manualmente
+![](https://github.com/lisaforero/lab1_cvds/blob/master/12.png)
+
+### Se sube despues de arreglarlo
+![](https://github.com/lisaforero/lab1_cvds/blob/master/13.png)
+![](https://github.com/lisaforero/lab1_cvds/blob/master/14.png)
 
 
 
