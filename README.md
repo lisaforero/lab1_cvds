@@ -46,3 +46,12 @@ git add se utiliza para agregar archivos al área de preparación, mientras que 
 ## Parte III
 ### ¿Hay una mejor forma de trabajar con git para no tener conflictos?
 Trabajo con Ramas , crea ramas específicas para cada característica o tarea
+
+### ¿Qué es y como funciona el Pull Request?
+Un Pull Request es una solicitud de integración de código donde un desarrollador propone modificaciones a un repositorio original. Funciona como una herramienta de comunicación que permite:
+
+-Validar cambios antes de fusionarlos
+
+-Facilitar la revisión de código
+
+-Permitir feedback y mejoras antes de la integración final
