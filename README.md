@@ -37,9 +37,9 @@ git add se utiliza para agregar archivos al área de preparación, mientras que 
 ![](https://github.com/lisaforero/lab1_cvds/blob/master/13.png)
 ![](https://github.com/lisaforero/lab1_cvds/blob/master/14.png)
 
-
-
 ### Error de intellij
-### Resolviendo con intellij
+![](https://github.com/lisaforero/lab1_cvds/blob/master/15.png)
 
+### Resolviendo con intellij
+![](https://github.com/lisaforero/lab1_cvds/blob/master/16.png)
 
