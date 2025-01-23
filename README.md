@@ -60,4 +60,6 @@ Un Pull Request es una solicitud de integración de código donde un desarrollad
 ### Creando una rama cada uno
 ![](https://github.com/lisaforero/lab1_cvds/blob/master/17.png)
 
+
 ### Haciendo cambios y el Pull Request
+
