@@ -55,3 +55,7 @@ Un Pull Request es una solicitud de integración de código donde un desarrollad
 -Facilitar la revisión de código
 
 -Permitir feedback y mejoras antes de la integración final
+
+
+### Creen una rama cada uno y suban sus cambios
+
