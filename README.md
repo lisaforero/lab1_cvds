@@ -1,5 +1,12 @@
 # Informe de laboratorio 1
 
+## Integrantes
+Carlos Andres Avellaneda Franco
+
+Lina Janeth Sánchez Forero
+
+## Respuestas
+
 ### Creando el repositorio localmente
 ![](https://github.com/lisaforero/lab1_cvds/blob/master/1.png)
 
@@ -65,4 +72,3 @@ Un Pull Request es una solicitud de integración de código donde un desarrollad
 
 ### Borrando las ramas después del Pull Request
 ![](https://github.com/lisaforero/lab1_cvds/blob/master/19.png)
-
